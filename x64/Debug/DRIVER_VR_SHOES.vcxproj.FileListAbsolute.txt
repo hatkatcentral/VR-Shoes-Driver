@@ -1,0 +1,2 @@
+C:\Users\Austin\Desktop\VR_SHOES\DRIVER_VR_SHOES\x64\Debug\DRIVER_VR_SHOES.dll
+C:\Users\Austin\Desktop\VR_SHOES\DRIVER_VR_SHOES\x64\Debug\DRIVER_VR_SHOES.pdb
